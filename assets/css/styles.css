@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+
+}
+
+body {
+   margin: 0;
+   padding: 0;
+    background-color: black;
+    color: white;
+
+}
+
+.text-justify {
+    text-align: justify;
+
+}
+
+.section.imagen img {
+    height: 120px;
+    object-fit: cover;
+}
